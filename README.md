@@ -1,5 +1,3 @@
 # kittens-header README
 
-Meow
-
-**Enjoy!**
+**Lets be gay**
