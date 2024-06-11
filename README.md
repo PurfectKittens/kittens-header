@@ -1,3 +1,3 @@
 # kittens-header README
 
-**Lets be gay**
+Download .vsix in releases to get it without compiling !
