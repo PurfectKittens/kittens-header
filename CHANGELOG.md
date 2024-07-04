@@ -1,9 +1,17 @@
-# Change Log
+# 🐾 Change Log - Kittens Header Extension 🐾
 
-All notable changes to the "kittens-header" extension will be documented in this file.
+## [1.1.0] - 2024-07-04
+### Ajouts ✨
+- Introduction de la demande du nom d'utilisateur à chaque utilisation de la commande `kittens-header.initKitten`.
+- Génération de jolis commentaires personnalisés avec des boîtes `meow` pour les langages suivants :
+  - C, C++, Rust, JavaScript (`//` pour les commentaires)
+  - Ruby, Python (`#` pour les commentaires)
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [1.0.0] - 2024-06-30
+### Premier Lancement 🚀
+- Activation de l'extension avec la commande `kittens-header.initKitten`.
+- Génération de commentaires avec des boîtes `meow` statiques.
 
-## [Unreleased]
+---
 
-- Initial release
+Merci d'utiliser Kittens Header! 😺 N'hésitez pas à nous faire part de vos retours et suggestions pour améliorer notre extension. Purrfect coding! 🐾
