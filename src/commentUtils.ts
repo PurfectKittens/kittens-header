@@ -33,6 +33,7 @@ function generateMeowBox(username: string, date: string): string {
       case 'javascript':
         comment = '// ';
         break;
+      case 'ruby':
       case 'python':
         comment = '# ';
         break;
