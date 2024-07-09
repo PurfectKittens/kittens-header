@@ -5,7 +5,7 @@ Bienvenue dans l'extension **Kittens Header** pour Visual Studio Code ! Ajoutez 
 ## Fonctionnalités ✨
 
 - **Génération de commentaires mignons** : Insérez des commentaires personnalisés avec une boîte `meow` pour différentes langues.
-- **Demande de nom d'utilisateur** : Saisissez votre nom à chaque utilisation de la commande pour des commentaires uniques.
+- **Demande de nom d'utilisateur** : Saisissez votre nom à la premiere utilisation de la commande pour des commentaires uniques.
 - **Support multi-langages** :
   - C, C++, Rust, JavaScript (`//` pour les commentaires)
   - Ruby, Python (`#` pour les commentaires)
