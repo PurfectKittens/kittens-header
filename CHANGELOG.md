@@ -1,5 +1,9 @@
 # 🐾 Change Log - Kittens Header Extension 🐾
 
+## [1.1.0] - 2024-07-09
+### Ajouts ✨
+- Demande du nom d'utilisateur à la premiere utilisation de la commande `kittens-header.initKitten`.
+
 ## [1.1.0] - 2024-07-04
 ### Ajouts ✨
 - Introduction de la demande du nom d'utilisateur à chaque utilisation de la commande `kittens-header.initKitten`.
